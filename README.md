@@ -8,12 +8,10 @@ Data Cleaning & Preprocessing – handled missing values, encoded categorical da
 
 Exploratory Data Analysis (EDA) – visualized trends in subscription rates by age, education, marital status, call duration, and contact method.
 
-Machine Learning Models – applied classification algorithms to predict deposit subscriptions.
-
 Power BI Dashboard – interactive visualizations for campaign performance and customer segmentation.
 
 Tech Stack
-Python: pandas, numpy, matplotlib, seaborn, scikit-learn
+Python: pandas, numpy, matplotlib, seaborn
 
 Power BI: Dashboard & KPI tracking
 
